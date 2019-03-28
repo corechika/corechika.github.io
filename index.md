@@ -1,10 +1,7 @@
-# ぽーとふぉりお
-
-## Profile
-山城広周   
-Hirochika Yamashiro   
-長岡技術科学大学   
-情報・経営システム工学専攻 M1    
+# Profile
+### 山城広周 -Hirochika Yamashiro-   
+##### 長岡技術科学大学   
+##### 情報・経営システム工学専攻 M1    
 
 ---
 
