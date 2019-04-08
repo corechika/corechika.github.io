@@ -10,7 +10,7 @@
 * 製造工場の作業率最適化 (共同研究)
 
 ## Achievements
-coming soon
+* Carreón, E. C. A., Nonaka, H., Hentona, A., & **Yamashiro, H.** (2019). Measuring the influence of mere exposure effect of TV commercial adverts on purchase behavior based on machine learning prediction models. Information Processing & Management, 56(4), 1339-1355.
 
 ## Hobby
 * ボケッとコードを書く
@@ -24,3 +24,8 @@ coming soon
     * それ以外にもいろいろ
     
 
+## Activity
+* 株式会社Moffにインターン
+    * 2017/8/14 〜 2017/8/28
+* 株式会社いい生活にインターン
+    * 2018/10/4 〜 2019/2/16
