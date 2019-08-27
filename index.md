@@ -11,10 +11,11 @@
 * 製造工場の作業率・人員配置の最適化 (共同研究)
 
 **現状**
-* 雑誌に1本submit予定，学会に2本出すため執筆中
+* 雑誌に1本submit予定
+* 学会に2本投稿
 
-## Achievements
-* Carreón, E. C. A., Nonaka, H., Hentona, A., & **Yamashiro, H.** (2019). Measuring the influence of mere exposure effect of TV commercial adverts on purchase behavior based on machine learning prediction models. Information Processing & Management, 56(4), 1339-1355.
+## Academic Publications
+* Carreón, E. C. A., Nonaka, H., Hentona, A., & **Yamashiro, H.** (2019). Measuring the influence of mere exposure effect of TV commercial adverts on purchase behavior based on machine learning prediction models. Information Processing & Management, 56(4), 1339-1355. (<a href="https://arxiv.org/abs/1904.06862">arxiv: 1904.06862</a>)
 
 ## Hobby
 * ボケッとコードを書く
@@ -22,7 +23,7 @@
 * ルービックキューブ
 * マインスイーパー
 * 読書
-* ヒエログリフ ← New !
+* ヒエログリフ
     
 
 ## Activity
