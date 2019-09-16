@@ -17,7 +17,7 @@
 
 ## Academic Publications
 * Carreón, E. C. A., Nonaka, H., Hentona, A., & **Yamashiro, H.** (2019). Measuring the influence of mere exposure effect of TV commercial adverts on purchase behavior based on machine learning prediction models. Information Processing & Management, 56(4), 1339-1355. (<a href="https://arxiv.org/abs/1904.06862">arxiv: 1904.06862</a>)
-* 山城広周, 井若, & 野中. (2019). 機械学習とエントロピーを用いた作業時間の無駄に関する要因分析. 日本オペレーションズ リサーチ秋季研究発表会, 2019, 214-215. (<a href="https://www.slideshare.net/HirochikaYamashiro/ss-172570545">SlideShare</ a>)
+* 山城広周, 井若, & 野中. (2019). 機械学習とエントロピーを用いた作業時間の無駄に関する要因分析. 日本オペレーションズ リサーチ秋季研究発表会, 2019, 214-215. (<a href="https://www.slideshare.net/HirochikaYamashiro/ss-172570545">SlideShare</a>)
 
 ## Hobby
 * ボケッとコードを書く
