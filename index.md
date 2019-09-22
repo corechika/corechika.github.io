@@ -1,5 +1,10 @@
 # 山城広周 -Hirochika Yamashiro-   
-長岡技術科学大学 情報・経営システム工学専攻 M1    
+長岡技術科学大学 Nagaoka University of Technology 
+情報・経営システム工学専攻 Information and Management Systems Engineering Master's Program   
+
+連絡
+* Twitter: @akitelok
+* e-mail: rconctmi121341[あっと]gmail.com
     
 田舎の大学院で自然言語処理と機械学習と生産管理や安全管理をしています．
 最近ヒエログリフをはじめました．
