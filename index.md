@@ -32,7 +32,10 @@
 - 長岡技術科学大学 工学部 情報・経営システム工学課程 (2017/4〜2019/3)
 
 ## Activity
-- Sansan株式会社
+- 技育展2020に登壇
+    - 敢闘賞受賞
+    - AI・機械学習・データ分析にてLow vision service(<a href="https://github.com/fish-and-skiing-life/Low_vision_support">github</a>)で発表
+- Sansan株式会社にインターン
     - 2020/1/20 〜 2020/2/28
     - 自由記述のアンケートを用いた株価指標の分析
 - 株式会社いい生活にインターン
