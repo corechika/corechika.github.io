@@ -2,7 +2,7 @@
 長岡技術科学大学 Nagaoka University of Technology    
 情報・経営システム工学専攻修士課程2年 Information and Management Systems Engineering Master's Program 2nd Grade  
     
-田舎の大学院で自然言語処理と製造工場に機械学習を応用したり，生産管理や安全管理をしています．
+田舎の大学院で自然言語処理と製造工場に機械学習を応用したり，生産管理や数理最適化をしています．
 最近西洋美術史にハマりました．
 
 ---
@@ -15,8 +15,7 @@
 - <a href="https://koletika.hatenablog.com">Blog</a>
 
 ## Research
-- 製品破損時の事故レポートからの情報抽出・自動分類
-- 製造工場の作業時間の推定とバラツキに関する要因分析，及びスケジューリングの最適化 (共同研究)
+- 製造工場における，オペレーションズリサーチと機械学習の融合による最適化 (共同研究)
 
 
 ## Academic Publications
@@ -35,6 +34,7 @@
 - 技育展2020に登壇
     - 敢闘賞受賞
     - AI・機械学習・データ分析にてLow vision service(<a href="https://github.com/fish-and-skiing-life/Low_vision_support">github</a>)で発表
+        - <a href="https://www.nikkan.co.jp/articles/view/00575775">日刊工業新聞に掲載されました！</a>
 - Sansan株式会社にインターン
     - 2020/1/20 〜 2020/2/28
     - 自由記述のアンケートを用いた株価指標の分析
