@@ -10,9 +10,7 @@
 ## Link
 - <a href="https://github.com/corechika">GitHub</a>
 - <a href="https://www.linkedin.com/in/chika-yamashiro/">LinkedIn</a>
-- <a href="https://twitter.com/akitelok">Twitter</a>
 - <a href="rconctmi121341@gmail.com">E-mail</a>
-- <a href="https://koletika.hatenablog.com">Blog</a>
 
 ## Research
 - 製造工場における，オペレーションズリサーチと機械学習の融合による最適化 (共同研究)
