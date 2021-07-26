@@ -1,6 +1,4 @@
 # 山城広周 -Hirochika Yamashiro-   
-長岡技術科学大学 Nagaoka University of Technology    
-情報・経営システム工学専攻修士課程2年 Information and Management Systems Engineering Master's Program 2nd Grade  
     
 田舎の大学院で自然言語処理と製造工場に機械学習を応用したり，生産管理や数理最適化をしています．
 最近西洋美術史にハマりました．
@@ -17,6 +15,7 @@
 
 
 ## Academic Publications
+- **Yamashiro, H.**, & Nonaka, H. (2021). Estimation of processing time using machine learning and real factory data for optimization of parallel machine scheduling problem. Operations Research Perspectives, 100196 (<a href="https://www.sciencedirect.com/science/article/pii/S2214716021000178">Science direct</a>).
 - **山城広周**, & 野中. (2021). 並列機械スケジューリングの最適化のための機械学習を用いた作業時間推定. 第83回情報処理学会全国大会, 2021, (<a href="https://www.slideshare.net/HirochikaYamashiro/83-244716093">SlideShare</a>).
 - 森雅也, **山城広周**, 山本雄太, 森楓, 鈴木祥広, 平岡透, & 野中尋史. (2021). 機械学習を用いたダム湖上流における有害藻類ブルームの発生予測モデルの開発と発生要因分析への応用. 第83回情報処理学会全国大会, 2021.
 - **山城広周**, 野中, & 井若. (2020). 機械学習を用いた工程情報に基づく作業時間のバラツキ要因の特定. データ工学と情報マネジメントに関するフォーラム, 2020, P1-17. (<a href="https://proceedings-of-deim.github.io/DEIM2020/papers/P1-17.pdf">PDF</a>)
@@ -54,4 +53,5 @@
 - 読書
 - ヒエログリフ
 - 美術館めぐり
+- 映画
 - 散歩
