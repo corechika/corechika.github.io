@@ -1,11 +1,11 @@
 # 山城広周 -Hirochika Yamashiro-   
-    
-田舎の大学院で自然言語処理と製造工場に機械学習を応用したり，生産管理や数理最適化をしています．
-最近西洋美術史にハマりました．
+
+企業の研究所で経済安全保障，法令関連の研究開発をしています．
 
 ---
 
 ## Link
+- <a href="https://www.wantedly.com/id/corechika">Wantedly</a>
 - <a href="https://github.com/corechika">GitHub</a>
 - <a href="https://www.linkedin.com/in/chika-yamashiro/">LinkedIn</a>
 - <a href="rconctmi121341@gmail.com">E-mail</a>
@@ -24,7 +24,7 @@
 - Carreón, E. C. A., Nonaka, H., Hentona, A., & **Yamashiro, H.** (2019). Measuring the influence of mere exposure effect of TV commercial adverts on purchase behavior based on machine learning prediction models. Information Processing & Management, 56(4), 1339-1355. (<a href="https://arxiv.org/abs/1904.06862">arxiv: 1904.06862</a>)
 
 ## Educational background
-- 株式会社FRONTEO 行動情報学研究所 (2021/4~)
+- 株式会社FRONTEO 行動情報学研究所 研究開発チーム 研究員(2021/4~)
 - 長岡技術科学大学工学研究科  情報・経営システム工学専攻 (2019/4〜2021/3)
 - 沖縄工業高等専門学校 メディア情報工学科 (2012/4〜2017/3)
 - 長岡技術科学大学 工学部 情報・経営システム工学課程 (2017/4〜2019/3)
