@@ -10,9 +10,8 @@
 - <a href="https://www.linkedin.com/in/chika-yamashiro/">LinkedIn</a>
 - <a href="rconctmi121341@gmail.com">E-mail</a>
 
-## Research
-- 製造工場における，オペレーションズリサーチと機械学習の融合による最適化 (共同研究)
-
+## Work History
+- 株式会社FRONTEO 行動情報学研究所 研究開発チーム 研究員 (2021/4~)
 
 ## Academic Publications
 - **Yamashiro, H.**, & Nonaka, H. (2021). Estimation of processing time using machine learning and real factory data for optimization of parallel machine scheduling problem. Operations Research Perspectives, 100196 (<a href="https://www.sciencedirect.com/science/article/pii/S2214716021000178">Science direct</a>).
@@ -24,7 +23,6 @@
 - Carreón, E. C. A., Nonaka, H., Hentona, A., & **Yamashiro, H.** (2019). Measuring the influence of mere exposure effect of TV commercial adverts on purchase behavior based on machine learning prediction models. Information Processing & Management, 56(4), 1339-1355. (<a href="https://arxiv.org/abs/1904.06862">arxiv: 1904.06862</a>)
 
 ## Educational background
-- 株式会社FRONTEO 行動情報学研究所 研究開発チーム 研究員(2021/4~)
 - 長岡技術科学大学工学研究科  情報・経営システム工学専攻 (2019/4〜2021/3)
 - 長岡技術科学大学 工学部 情報・経営システム工学課程 (2017/4〜2019/3)
 - 沖縄工業高等専門学校 メディア情報工学科 (2012/4〜2017/3)
