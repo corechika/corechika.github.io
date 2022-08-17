@@ -1,6 +1,6 @@
 # 山城広周 -Hirochika Yamashiro-   
 
-企業の研究所で経済安全保障，法令関連の研究開発をしています．
+企業でデータ整備やデータ活用の分析やらあれこれをしています。
 
 ---
 
@@ -11,7 +11,8 @@
 - <a href="rconctmi121341@gmail.com">E-mail</a>
 
 ## Work History
-- 株式会社FRONTEO 行動情報学研究所 研究開発チーム 研究員 (2021/4~)
+- RIZAP テクノロジーズ株式会社 データマネジメント部 データアナリスト (2022/8~)
+- 株式会社FRONTEO 行動情報学研究所 研究開発チーム 研究員 (2021/4~2022/7)
 
 ## Academic Publications
 - **Yamashiro, H.**, & Nonaka, H. (2021). Estimation of processing time using machine learning and real factory data for optimization of parallel machine scheduling problem. Operations Research Perspectives, 100196 (<a href="https://www.sciencedirect.com/science/article/pii/S2214716021000178">Science direct</a>).
@@ -53,3 +54,5 @@
 - 美術館めぐり
 - 映画
 - 散歩
+- ブーツのメンテナンス
+- カメラ
