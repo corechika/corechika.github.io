@@ -10,11 +10,37 @@
 - <a href="https://www.linkedin.com/in/chika-yamashiro/">LinkedIn</a>
 - <a href="rconctmi121341@gmail.com">E-mail</a>
 
-## Work History
-- RIZAP テクノロジーズ株式会社 データマネジメント部 データアナリスト (2022/8~)
+## 職務経歴
+### 概要
+#### ソフトウェア開発
+- データ分析基盤構築
+    - 設計・開発 1年
+- Webアプリケーション
+    - Pythonによるフロントエンド、API、データ収集システムの構築 2年
+- その他
+    - QRコード自動生成ツールの作成(Python)
+    - ダッシュボード構築(Python、Windows Batch、Dr.Sum)
+#### 研究
+- 自然言語処理 2年
+    - 法律分野
+    - リスクマネジメント分野
+- オペレーションズリサーチ(OR) 2年
+    - 機械スケジューリング最適化
+#### 分析
+- 広告効果分析
+#### 教育
+- 社内勉強会
+### 詳細
+- RIZAP テクノロジーズ株式会社 データマネジメント部 データアーキテクト (2022/8~)
+    - データエンジニア
+        - 内容
+    - データアナリスト
+        - 内容
 - 株式会社FRONTEO 行動情報学研究所 研究開発チーム 研究員 (2021/4~2022/7)
+    - 法律×自然言語処理の研究
 
-## Academic Publications
+
+## 投稿論文
 - **Yamashiro, H.**, & Nonaka, H. (2021). Estimation of processing time using machine learning and real factory data for optimization of parallel machine scheduling problem. Operations Research Perspectives, 100196 (<a href="https://www.sciencedirect.com/science/article/pii/S2214716021000178">Science direct</a>).
 - **山城広周**, & 野中. (2021). 並列機械スケジューリングの最適化のための機械学習を用いた作業時間推定. 第83回情報処理学会全国大会, 2021, (<a href="https://www.slideshare.net/HirochikaYamashiro/83-244716093">SlideShare</a>).
 - 森雅也, **山城広周**, 山本雄太, 森楓, 鈴木祥広, 平岡透, & 野中尋史. (2021). 機械学習を用いたダム湖上流における有害藻類ブルームの発生予測モデルの開発と発生要因分析への応用. 第83回情報処理学会全国大会, 2021.
@@ -23,12 +49,12 @@
 - **山城広周**, 井若, & 野中. (2019). 機械学習とエントロピーを用いた作業時間の無駄に関する要因分析. 日本オペレーションズ リサーチ秋季研究発表会, 2019, 214-215. (<a href="https://www.slideshare.net/HirochikaYamashiro/ss-172570545">SlideShare</a>) (<a href="http://www.orsj.or.jp/~nc2019f/wp-content/uploads/2019/08/2019f-2-D-6.pdf">PDF</a>)
 - Carreón, E. C. A., Nonaka, H., Hentona, A., & **Yamashiro, H.** (2019). Measuring the influence of mere exposure effect of TV commercial adverts on purchase behavior based on machine learning prediction models. Information Processing & Management, 56(4), 1339-1355. (<a href="https://arxiv.org/abs/1904.06862">arxiv: 1904.06862</a>)
 
-## Educational background
+## 学歴
 - 長岡技術科学大学工学研究科  情報・経営システム工学専攻 (2019/4〜2021/3)
 - 長岡技術科学大学 工学部 情報・経営システム工学課程 (2017/4〜2019/3)
 - 沖縄工業高等専門学校 メディア情報工学科 (2012/4〜2017/3)
 
-## Activity
+## 外部活動
 - 第83回情報処理学会全国大会にて「並列機械スケジューリングの最適化のための機械学習を用いた作業時間推定」で学生奨励賞受賞
 - 技育展2020に登壇
     - 敢闘賞受賞
@@ -44,15 +70,3 @@
 - 株式会社Moffにインターン
     - 2017/8/14 〜 2017/8/28
     - バンド型センサーを用いた正しいスクワットの動作検出
-
-## Hobby
-- 弓道
-- ルービックキューブ
-- マインスイーパー
-- 読書
-- ヒエログリフ
-- 美術館めぐり
-- 映画
-- 散歩
-- ブーツのメンテナンス
-- カメラ
