@@ -8,12 +8,11 @@
 - <a href="https://www.wantedly.com/id/corechika">Wantedly</a>
 - <a href="https://github.com/corechika">GitHub</a>
 - <a href="https://www.linkedin.com/in/chika-yamashiro/">LinkedIn</a>
-- <a href="rconctmi121341@gmail.com">E-mail</a>
 
 ## 職務経歴(概要)
 ### ソフトウェア開発
 - データ分析基盤構築
-    - 設計・開発 1年
+    - 設計・開発 2年
 - Webアプリケーション
     - Pythonによるフロントエンド、API、データ収集システムの構築 2年
 - その他
